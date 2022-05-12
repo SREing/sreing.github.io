@@ -1,6 +1,6 @@
 site_name: SREing
-repo_url: https://github.com/SREing/SREing-pages
-repo_name: SREing/SREing-pages
+repo_url: https://github.com/SREing/sreing.github.io
+repo_name: SREing/sreing.github.io
 theme:
   name: material
   logo: assets/logo.png
